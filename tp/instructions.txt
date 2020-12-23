@@ -1,0 +1,33 @@
+1. The purpose of the game is to type the words on the aliens and asteroids as fast as you can 
+
+2. To shoot an alien, you must first unlock it by typing the word that is on the alien. 
+Once you type it successfully, the word will disappear and you will be able to shoot it 
+
+3. Asteroid will have 3 words on them, if you type all three words before the asteroid hits the ground, 
+all of the current aliens will be cleared 
+*note - you must hit enter after typing a word 
+
+4. You can change the speed of the bullet by pressing 1, 2, or 3 on your keyboard. 1 is the slowest speed, 
+and 3 is the fastest 
+
+5. If you would like a parabolic shot instead of a linear one, you can pressed Shift + A (holding them both down 
+together). To deactivate the parabolic shot: press Shift + A again 
+
+6. If you shoot a falling ice cube successfully, the game will "freeze" for 5 seconds. 
+In this time, you can either unlock aliens, type words on an asteroid (if present), or shoot aliens 
+
+7. For every 3 asteroids you clear successfully, you will get a "super bullet" which is 3 times the size of a regular 
+bullet. This may allow you to shoot through multiple objects at once 
+
+8. For every 5 asteroids you clear, you will get a "ricochet" bullet, which will bounce off the side walls 
+and any aliens you hit. This is indicated by an 'R' at the bottom left of your screen
+
+9. The game will end if 10 aliens reach the ground 
+
+10. You win the game if you clear 12 asteroids 
+ 
+11. At the end of the game, there will be a report telling you what words you mistyped, and you will 
+be able to practice them!
+
+12. Points - Clearing an asteroid is +10, shooting an alien is +2, an unlocked alien
+hitting the ground is -5, a locked alien hitting the ground is -15
